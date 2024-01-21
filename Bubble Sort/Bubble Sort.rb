@@ -13,7 +13,6 @@ def bubble_sort(array)
   
       break unless swapped
     end
-  
     array
 end
 array= bubble_sort([4,3,78,2,0,2])
